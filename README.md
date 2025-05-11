@@ -24,7 +24,7 @@ Sign-Language-To-Text-Conversion/
 ├── CSE_MINI_PROJECT_Report_Template.docx
 ├── PROJECT PRESENTATION - SIGN LANGUAGE TO TEXT CONVERSION.pptx
 ├── Synopsis.docx
-├── DocScanner.pdf                 # Scanned document, likely submission-related
+├── DocScanner.pdf                 # Scanned document
 └── .ipynb_checkpoints/            # Jupyter notebook checkpoints
 ```
 

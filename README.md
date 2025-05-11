@@ -42,7 +42,7 @@ Sign-Language-To-Text-Conversion/
 
 ## 🛠️ Technologies Used
 
-- Python 3.x
+- Python 
 - OpenCV
 - TensorFlow / Keras
 - NumPy

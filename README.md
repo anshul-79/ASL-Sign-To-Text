@@ -56,8 +56,8 @@ Sign-Language-To-Text-Conversion/
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/anshul-79/Sign-Language-To-Text-Conversion.git
-   cd Sign-Language-To-Text-Conversion
+   git clone https://github.com/anshul-79/ASL-Sign-To-Text.git
+   cd ASL-Sign-To-Text
    ```
 
 2. **Collect Data**
